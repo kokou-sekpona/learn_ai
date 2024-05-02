@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+gtts
+ffmpeg-python
+openai
+python-multipart
+Pillow
+langdetect
